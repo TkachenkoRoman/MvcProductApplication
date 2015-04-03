@@ -1,0 +1,5 @@
+D:\Web_design\MvcProductApp\UnitTests\bin\Debug\UnitTests.dll
+D:\Web_design\MvcProductApp\UnitTests\bin\Debug\UnitTests.pdb
+D:\Web_design\MvcProductApp\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+D:\Web_design\MvcProductApp\UnitTests\obj\Debug\UnitTests.dll
+D:\Web_design\MvcProductApp\UnitTests\obj\Debug\UnitTests.pdb

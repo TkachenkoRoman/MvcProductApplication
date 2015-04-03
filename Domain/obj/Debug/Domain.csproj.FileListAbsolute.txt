@@ -1,0 +1,9 @@
+D:\Web_design\MvcProductApp\Domain\bin\Debug\Domain.dll.config
+D:\Web_design\MvcProductApp\Domain\bin\Debug\Domain.dll
+D:\Web_design\MvcProductApp\Domain\bin\Debug\Domain.pdb
+D:\Web_design\MvcProductApp\Domain\bin\Debug\EntityFramework.dll
+D:\Web_design\MvcProductApp\Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Web_design\MvcProductApp\Domain\bin\Debug\EntityFramework.xml
+D:\Web_design\MvcProductApp\Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Web_design\MvcProductApp\Domain\obj\Debug\Domain.dll
+D:\Web_design\MvcProductApp\Domain\obj\Debug\Domain.pdb
